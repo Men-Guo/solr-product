@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/morfologik-fsa-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/icu4j-62.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/morfologik-polish-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/morfologik-ukrainian-search-4.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/morfologik-stemming-2.1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lib/opennlp-tools-1.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

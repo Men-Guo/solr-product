@@ -1,0 +1,39 @@
+2021-11-22 05:34:09.651 INFO  (main) [   ] o.e.j.u.log Logging initialized @2489ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-11-22 05:34:10.071 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.44.v20210927; built: 2021-09-27T23:02:44.612Z; git: 8da83308eeca865e495e53ef315a249d63ba9332; jvm 11.0.10+8-LTS-162
+2021-11-22 05:34:10.104 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///E:/solr-8.11.0/server/contexts/] at interval 0
+2021-11-22 05:34:10.862 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2021-11-22 05:34:10.875 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2021-11-22 05:34:10.875 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2021-11-22 05:34:10.878 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 660000ms
+2021-11-22 05:34:10.982 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2021-11-22 05:34:10.989 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr? version 8.11.0
+2021-11-22 05:34:10.989 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in standalone mode on port 8983
+2021-11-22 05:34:10.989 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: E:\solr-8.11.0
+2021-11-22 05:34:10.990 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2021-11-22T05:34:10.990664400Z
+2021-11-22 05:34:11.029 INFO  (main) [   ] o.a.s.c.SolrPaths Using system property solr.solr.home: E:\solr-8.11.0\example\example-DIH\solr
+2021-11-22 05:34:11.031 INFO  (main) [   ] o.a.s.c.SolrXmlConfig Loading container configuration from E:\solr-8.11.0\example\example-DIH\solr\solr.xml
+2021-11-22 05:34:11.114 INFO  (main) [   ] o.a.s.c.SolrXmlConfig MBean server found: com.sun.jmx.mbeanserver.JmxMBeanServer@6ccdb29f, but no JMX reporters were configured - adding default JMX reporter.
+2021-11-22 05:34:11.771 INFO  (main) [   ] o.a.s.h.c.HttpShardHandlerFactory Host whitelist initialized: WhitelistHostChecker [whitelistHosts=null, whitelistHostCheckingEnabled=true]
+2021-11-22 05:34:12.087 WARN  (main) [   ] o.e.j.u.s.S.config Trusting all certificates configured for Client@5e5af8e1[provider=null,keyStore=null,trustStore=null]
+2021-11-22 05:34:12.087 WARN  (main) [   ] o.e.j.u.s.S.config No Client EndPointIdentificationAlgorithm configured for Client@5e5af8e1[provider=null,keyStore=null,trustStore=null]
+2021-11-22 05:34:12.296 WARN  (main) [   ] o.e.j.u.s.S.config Trusting all certificates configured for Client@1dbd580[provider=null,keyStore=null,trustStore=null]
+2021-11-22 05:34:12.296 WARN  (main) [   ] o.e.j.u.s.S.config No Client EndPointIdentificationAlgorithm configured for Client@1dbd580[provider=null,keyStore=null,trustStore=null]
+2021-11-22 05:34:12.360 WARN  (main) [   ] o.a.s.c.CoreContainer Not all security plugins configured!  authentication=disabled authorization=disabled.  Solr is only as secure as you make it. Consider configuring authentication/authorization before exposing Solr to users internal or external.  See https://s.apache.org/solrsecurity for more info
+2021-11-22 05:34:21.549 INFO  (main) [   ] o.a.s.c.TransientSolrCoreCacheDefault Allocating transient core cache for max 2147483647 cores with initial capacity of 1024
+2021-11-22 05:34:21.559 INFO  (main) [   ] o.a.s.h.a.MetricsHistoryHandler No .system collection, keeping metrics history in memory.
+2021-11-22 05:34:21.632 INFO  (main) [   ] o.a.s.m.r.SolrJmxReporter JMX monitoring for 'solr.node' (registry 'solr.node') enabled at server: com.sun.jmx.mbeanserver.JmxMBeanServer@6ccdb29f
+2021-11-22 05:34:21.632 INFO  (main) [   ] o.a.s.m.r.SolrJmxReporter JMX monitoring for 'solr.jvm' (registry 'solr.jvm') enabled at server: com.sun.jmx.mbeanserver.JmxMBeanServer@6ccdb29f
+2021-11-22 05:34:21.633 INFO  (main) [   ] o.a.s.m.r.SolrJmxReporter JMX monitoring for 'solr.jetty' (registry 'solr.jetty') enabled at server: com.sun.jmx.mbeanserver.JmxMBeanServer@6ccdb29f
+2021-11-22 05:34:21.667 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Found 1 core definitions underneath E:\solr-8.11.0\example\example-DIH\solr
+2021-11-22 05:34:21.668 INFO  (main) [   ] o.a.s.c.CorePropertiesLocator Cores are: [db]
+2021-11-22 05:34:21.733 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.c.SolrResourceLoader Added 63 libs to classloader, from paths: [/E:/solr-8.11.0/contrib/extraction/lib, /E:/solr-8.11.0/contrib/langid/lib, /E:/solr-8.11.0/contrib/velocity/lib, /E:/solr-8.11.0/dist, /E:/solr-8.11.0/example/example-DIH/solr/db/lib]
+2021-11-22 05:34:22.026 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.c.SolrConfig Using Lucene MatchVersion: 8.11.0
+2021-11-22 05:34:22.032 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.u.SolrIndexConfig IndexWriter infoStream solr logging is enabled
+2021-11-22 05:34:22.062 WARN  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.c.SolrConfig solrconfig.xml: <jmx> is no longer supported, use solr.xml:/metrics/reporter section instead
+2021-11-22 05:34:22.103 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.s.IndexSchema Schema name=example-DIH-db
+2021-11-22 05:34:22.158 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.s.IndexSchema Loaded schema example-DIH-db/1.6 with uniqueid field ProductID
+2021-11-22 05:34:22.159 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.c.CoreContainer Creating SolrCore 'db' using configuration from instancedir E:\solr-8.11.0\example\example-DIH\solr\db, trusted=true
+2021-11-22 05:34:22.218 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.m.r.SolrJmxReporter JMX monitoring for 'solr.core.db' (registry 'solr.core.db') enabled at server: com.sun.jmx.mbeanserver.JmxMBeanServer@6ccdb29f
+2021-11-22 05:34:22.242 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.c.SolrCore [[db] ] Opening new SolrCore at [E:\solr-8.11.0\example\example-DIH\solr\db], dataDir=[E:\solr-8.11.0\example\example-DIH\solr\db\data\]
+2021-11-22 05:34:22.297 INFO  (coreLoadExecutor-13-thread-1) [   x:db] o.a.s.r.XSLTResponseWriter xsltCacheLifetimeSeconds=5
+2021-11-22 05:34:23.316 INFO  (main) [   ] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@a23a01d{/solr,file:///E:/solr-8.11.0/server/solr-webapp/webapp/,AVAILABLE}{E:\solr-8.11.0\server/solr-webapp/webapp}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lucene-libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lucene-libs/lucene-analyzers-morfologik-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lucene-libs/lucene-analyzers-smartcn-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lucene-libs/lucene-analyzers-icu-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lucene-libs/lucene-analyzers-opennlp-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/analysis-extras/lucene-libs/lucene-analyzers-stempel-8.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

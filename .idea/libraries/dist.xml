@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/solr-solrj-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-analytics-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-analysis-extras-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-jaegertracer-configurator-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-cell-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-test-framework-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-dataimporthandler-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-core-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-dataimporthandler-extras-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-velocity-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-s3-repository-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-ltr-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-langid-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-prometheus-exporter-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/solr-gcs-repository-8.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

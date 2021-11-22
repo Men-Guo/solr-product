@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/example/example-DIH/solr/db/lib/derby-10.9.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example/example-DIH/solr/db/lib/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example/example-DIH/solr/db/lib/hsqldb-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example/example-DIH/solr/db/lib/solr-dataimporthandler-8.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example/example-DIH/solr/db/lib/solr-dataimporthandler-extras-8.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

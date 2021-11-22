@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/opencensus-contrib-http-util-0.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-cloud-core-1.77.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/gax-httpjson-0.62.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-auth-library-credentials-0.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/gax-1.45.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/gson-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/opencensus-api-0.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-api-client-1.32.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-oauth-client-1.32.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/jackson-core-2.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-api-services-storage-v1-rev20210127-1.31.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-http-client-appengine-1.39.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/api-common-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/protobuf-java-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-cloud-core-http-1.77.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-cloud-nio-0.122.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/error_prone_annotations-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/threetenbp-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/proto-google-common-protos-1.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-http-client-1.39.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/protobuf-java-util-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/proto-google-iam-v1-0.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-cloud-storage-1.113.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/grpc-context-1.19.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-auth-library-oauth2-http-0.15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/gcs-repository/lib/google-http-client-jackson2-1.39.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

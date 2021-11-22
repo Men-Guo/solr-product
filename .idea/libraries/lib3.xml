@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/sdk-core-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/utils-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/stax2-api-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/arns-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/aws-query-protocol-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/third-party-jackson-core-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/s3-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/woodstox-core-6.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/joda-time-2.9.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/ion-java-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/auth-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/profiles-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/apache-client-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/http-client-spi-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/annotations-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/json-utils-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/metrics-spi-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/regions-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/aws-core-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/aws-xml-protocol-2.17.63.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/s3-repository/lib/protocol-core-2.17.63.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

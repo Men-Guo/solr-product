@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema name="example-DIH-db" version="1.6">
+
+   <field name="_version_" type="plong" indexed="true" stored="true"/>
+   <field name="_root_" type="string" indexed="true" stored="false"/>
+
+   <uniqueKey>ProductID</uniqueKey>
+
+    <field name="ProductID" type="string" indexed="true" stored="true" required="true" multiValued="false" />
+    <field name="Name" type="string" indexed="true" stored="true"/>
+    <field name="MerchantCategory" type="string" indexed="true" stored="true" />
+    <field name="GoogleCategory" type="string" indexed="true" stored="true"/>
+    <field name="ProductURL" type="string" indexed="true" stored="true"/>
+    <field name="ImageURL" type="string" indexed="true" stored="true"/>
+    <field name="AdditionalImageURL" type="string" indexed="true" stored="true"/>
+    <field name="ProductCondition" type="string" indexed="true" stored="true"/>
+    <field name="Price" type="pdouble" indexed="true" stored="true"/>
+    <field name="SalesPrice" type="pdouble" indexed="true" stored="true"/>
+    <field name="Brand" type="string" indexed="true" stored="true"/>
+    <field name="Manufacturer" type="string" indexed="true" stored="true"/>
+    <field name="ManufacturerDetails" type="string" indexed="true" stored="true"/>
+    <field name="ManufacturerLocation" type="string" indexed="true" stored="true"/>
+    <field name="GTIN" type="string" indexed="true" stored="true"/>
+    <field name="MPN" type="string" indexed="true" stored="true"/>
+    <field name="Gender" type="string" indexed="true" stored="true"/>
+    <field name="AgeRangeLow" type="pint" indexed="true" stored="true"/>
+    <field name="AgeRangeHigh" type="pint" indexed="true" stored="true"/>
+    <field name="VariantGroupID" type="string" indexed="true" stored="true"/>
+    <field name="Color" type="string" indexed="true" stored="true"/>
+    <field name="Size" type="string" indexed="true" stored="true"/>
+    <field name="Material" type="string" indexed="true" stored="true"/>
+    <field name="Pattern" type="string" indexed="true" stored="true"/>
+    <field name="Shipping" type="string" indexed="true" stored="true"/>
+    <field name="ShippingWeight" type="string" indexed="true" stored="true"/>
+    <field name="Bundle" type="string" indexed="true" stored="true"/>
+    <field name="MerchantSKU" type="string" indexed="true" stored="true"/>
+    <field name="TopSellerRank" type="pint" indexed="true" stored="true"/>
+    <field name="Tax" type="string" indexed="true" stored="true"/>
+    <field name="ChannelApplicability" type="string" indexed="true" stored="true" />
+    <field name="InternalProductID" type="string" indexed="true" stored="true"/>
+    <field name="PromotionID" type="string" indexed="true" stored="true"/>
+    <field name="IsDefaultVariant" type="boolean" indexed="true" stored="true"/>
+    <field name="ProcessingTime" type="string" indexed="true" stored="true"/>
+    <field name="Customization" type="string" indexed="true" stored="true"/>
+    <field name="LastUpdate" type="pdate" indexed="true" stored="true"/>
+    <field name="Active" type="boolean" indexed="true" stored="true"/>
+    <field name="AgeGroup" type="string" indexed="true" stored="true"/>
+    <field name="Availability" type="string" indexed="true" stored="true"/>
+    <field name="IsOnSale" type="boolean" indexed="true" stored="true"/>
+    <field name="CurrencyCode" type="string" indexed="true" stored="true"/>
+    <field name="PromotionEnd" type="pdate" indexed="true" stored="true"/>
+    <field name="PromotionStart" type="pdate" indexed="true" stored="true"/>
+    <field name="PromotionTitle" type="string" indexed="true" stored="true"/>
+    <field name="PromotionsMetadata" type="string" indexed="true" stored="true"/>
+    <field name="ColorSwatchUrl" type="string" indexed="true" stored="true"/>
+    <field name="ProductLocation" type="string" indexed="true" stored="true"/>
+    <field name="SalePriceStart" type="pdate" indexed="true" stored="true"/>
+    <field name="SalePriceEnd" type="pdate" indexed="true" stored="true"/>
+    <field name="SizeGuideURL" type="string" indexed="true" stored="true"/>
+    <field name="SearchImageURL" type="string" indexed="true" stored="true"/>
+
+    <fieldType name="pint" class="solr.IntPointField" docValues="true"/>
+    <fieldType name="pfloat" class="solr.FloatPointField" docValues="true"/>
+    <fieldType name="plong" class="solr.LongPointField" docValues="true"/>
+    <fieldType name="pdouble" class="solr.DoublePointField" docValues="true"/>
+    <fieldType name="string" class="solr.StrField" sortMissingLast="true" />
+    <fieldType name="pints" class="solr.IntPointField" docValues="true" multiValued="true"/>
+    <fieldType name="pfloats" class="solr.FloatPointField" docValues="true" multiValued="true"/>
+    <fieldType name="plongs" class="solr.LongPointField" docValues="true" multiValued="true"/>
+    <fieldType name="pdoubles" class="solr.DoublePointField" docValues="true" multiValued="true"/>
+    <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true"/>
+    <fieldType name="pdate" class="solr.DatePointField" docValues="true"/>
+</schema>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-api-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-slf4j-impl-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-layout-template-json-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/jul-to-slf4j-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-web-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-core-2.14.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/disruptor-3.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/jcl-over-slf4j-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/slf4j-api-1.7.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/lib/ext/log4j-1.2-api-2.14.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

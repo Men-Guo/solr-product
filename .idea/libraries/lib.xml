@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/xmpcore-shaded-6.1.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/bcmail-jdk15on-1.69.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/tika-parsers-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/tika-xmp-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/xml-apis-1.4.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/rome-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/commons-csv-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/parso-2.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/tika-core-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/fontbox-2.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/xercesImpl-2.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/jackcess-encrypt-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/isoparser-1.9.41.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/rome-utils-1.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/jempbox-1.8.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/juniversalchardet-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/pdfbox-2.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/apache-mime4j-core-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/aspectjrt-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/metadata-extractor-2.13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/jmatio-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/dec-0.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/pdfbox-tools-2.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/vorbis-java-tika-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/icu4j-62.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/vorbis-java-core-0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/bcprov-jdk15on-1.69.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/tagsoup-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/tika-java7-1.27.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/xz-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/poi-scratchpad-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/apache-mime4j-dom-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/bcpkix-jdk15on-1.69.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/boilerpipe-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/extraction/lib/java-libpst-0.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/contrib/langid/lib/opennlp-tools-1.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/langid/lib/jsonic-1.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/contrib/langid/lib/langdetect-1.1-20120112.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
